@@ -85,7 +85,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC;
 ```
-Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2024:
+Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
 - **SQL** is leading with a bold count of 8.
 - **Python** follows closely with a bold count of 7.
 - **Tableau** is also highly sought after, with a bold count of 6.
@@ -116,7 +116,7 @@ ORDER BY
     demand_count DESC
 LIMIT 5;
 ```
-Here's the breakdown of the most demanded skills for data analysts in 2024
+Here's the breakdown of the most demanded skills for data analysts in 2023
 - **SQL** and **Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
 - **Programming** and **Visualization Tools** like **Python**, **Tableau**, and **Power BI** are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
 
@@ -211,7 +211,7 @@ LIMIT 25;
 
 *Table of the most optimal skills for data analyst sorted by salary*
 
-Here's a breakdown of the most optimal skills for Data Analysts in 2024: 
+Here's a breakdown of the most optimal skills for Data Analysts in 2023: 
 - **High-Demand Programming Languages:** Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
 - **Cloud Tools and Technologies:** Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
 - **Business Intelligence and Visualization Tools:** Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
